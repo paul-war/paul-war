@@ -1,6 +1,6 @@
 <h1>Mi nombre es Pablo Guerra</h1>  
 
-## Desarrollador junior Full-Stack (en proceso) :desktop_computer: y Analista de Marketing Digital ##
+## Desarrollador Full-Stack :desktop_computer: (en proceso:hourglass:) y Analista de Marketing Digital :rocket: ##
 <br>
 
 * Trabajé durante la mitad de mi vida (19 de 38 años) en el mercado asegurador :argentina:, 13 años en distintos puestos en aseguradoras y 6 años como dueño de Smart IB Broker/Correduría de Seguros -hasta agosto del 2022-.<br>
@@ -8,20 +8,20 @@ Ahora vivo en :es: y estoy buscando nuevos desafíos, ¡siempre procurando obten
 <br>
 
 
-> <h2>for(let i=0, i<∞, i++){console.log("I´ll keep learning")} --> ¡Nunca dejes de aprender!</h2>
+> <h2>for(let i=0, i<∞, i++){console.log("¡Nunca dejes de aprender!")}</h2>
 <br>
 
   
 - 📫 How to reach me: **pablodanielguerra@gmail.com**
 
-- ⚡ Fun fact: I only watch football (soccer) during de World Cup!
+- ⚡ Fun fact: I only watch football (soccer) during the World Cup!
   
 <br>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pablodanielguerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablodanielguerra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pablodanielguerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin de pablodanielguerra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
