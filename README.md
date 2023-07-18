@@ -1,6 +1,6 @@
 <h1>Mi nombre es Pablo Guerra</h1>  
 
-## Desarrollador Full-Stack :desktop_computer: (en proceso:hourglass:) y Analista de Marketing Digital :rocket: ##
+## Desarrollador Full-Stack :desktop_computer: y Analista de Marketing Digital :rocket: ##
 <br>
 
 * Trabajé durante la mitad de mi vida (19 de 38 años) en el mercado asegurador :argentina:, 13 años en distintos puestos en aseguradoras y 6 años como dueño de Smart IB Broker/Correduría de Seguros -hasta agosto del 2022-.<br>
